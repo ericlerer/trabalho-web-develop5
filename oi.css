@@ -1,0 +1,21 @@
+body {
+    font-family: 'Times New Roman', Times, serif
+
+}
+
+p {
+    font-size: 1in;
+}
+
+h2 {
+   background-color: green;
+}
+
+strong {
+    background-color: lightblue;
+    color: red;
+}
+
+h3 {
+    font-size: 20px;
+}
